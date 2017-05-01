@@ -108,9 +108,9 @@ My final model results were:
 ###Test a Model on New Images
 
 ####1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
-![alt text][image2] ![alt text][image3] ![alt text][image4]
-![alt text][image5] ![alt text][image6]
 Before processing these images were resized to 32x32x3. 
+![alt text][image2] ![alt text][image3] ![alt text][image4] ![alt text][image5] ![alt text][image6]
+
 
 ####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
